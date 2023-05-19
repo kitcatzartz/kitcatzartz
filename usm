@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo ""
+
 echo "Building ${HOST}..."
 
 # Some important global varibles
